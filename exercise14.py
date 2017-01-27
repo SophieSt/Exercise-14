@@ -10,12 +10,6 @@ import json
 import folium
 import re
 
-##codes to access twitter API. 
-APP_KEY = 'mMdTomafktQzaFIkLMyXd1t3Q'
-APP_SECRET = 'ixwpjOIA6aq8taID9bdf1BMDIATnlZIWLO4skMelx9j5ZYYJtM'
-OAUTH_TOKEN = '296925658-eUP5qPGByPHZxby5tdGXkZfX8DcGFWVLYEYCiRJo'
-OAUTH_TOKEN_SECRET = 'h4pPskIlONVKsLJcqNWtu8OSSOuWZByk0IixmVX17kvC3'
-
 ##initiating Twython object 
 #twitter = Twython(APP_KEY, APP_SECRET, OAUTH_TOKEN, OAUTH_TOKEN_SECRET)
 
