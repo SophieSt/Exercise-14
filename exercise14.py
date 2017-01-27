@@ -4,7 +4,6 @@ Created on Thu Jan 26 16:07:12 2017
 
 @author: ubuntu
 """
-
 from twython import Twython
 import json
 import folium
